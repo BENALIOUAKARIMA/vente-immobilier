@@ -1,0 +1,17 @@
+
+body{
+    width: 100%;
+    height: 100%%;
+    background-image:url(iimage.jpg);
+    margin-top: 160px;
+}
+div{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(245, 152, 12);
+}
+h1{
+    color:rgb(37, 6, 6);
+    margin-bottom: 150px;
+    
+}
